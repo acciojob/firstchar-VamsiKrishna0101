@@ -1,6 +1,6 @@
 function firstChar(text) {
   // your code here
-	let index=' '
+	let index=''
 	for(let i=0;i<text.length;i++){
 		if(text[i]!=' ') {
 			index=text[i]
